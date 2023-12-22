@@ -1,4 +1,0 @@
-home=/home/rong_cong
-dspath=/opt/ldap/FRDS;dbpath='sfg';logpath='sfglog'
-dsname=ds_usexample_dev
-DEPLOYMENT_ID=AO0eKZgS2lgz7FmeMnOPCufhCLLp_0Q5CBVN1bkVDZk7TzpaP3Ev0xQ
