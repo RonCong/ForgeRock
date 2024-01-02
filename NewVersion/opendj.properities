@@ -1,0 +1,4 @@
+ds=/opt/ldap/FRDS;db=/opt/ldapdb/sfg;log=/opt/ldaplogs/sfglog
+home=/home/rong_cong
+dsname=ds_usexample_dev
+auth_opt=(--hostname localhost --port 5555 --bindDn "cn=Directory Manager" --bindPassword password)
